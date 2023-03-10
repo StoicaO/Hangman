@@ -1,0 +1,22 @@
+#title{
+    color: purple;
+    text-align: center;
+}
+
+#lineSpace{
+    text-align: center;
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 5px;
+}
+
+#findOrNo{
+    text-align: center;
+    font-size: 25px;
+}
+
+#wrongLetters{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}
